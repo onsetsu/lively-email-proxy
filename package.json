@@ -1,0 +1,17 @@
+{
+  "name": "batch-script-server",
+  "description": "A local https cors-enabled server to run certain batch scripts",
+  "main": "batch-script-server.js",
+  "scripts": {
+    "start": "batch-script-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onsetsu/batch-server"
+  },
+  "dependencies": {
+    "mime": "^1.3.4",
+    "node-windows": "^0.1.14",
+    "slash": "^1.0.0"
+  }
+}
