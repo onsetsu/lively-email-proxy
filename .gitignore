@@ -1,3 +1,6 @@
+# Windows Service Files
+daemon/
+
 # Logs
 logs
 *.log
